@@ -1,4 +1,4 @@
-name: "Valentina D'Efilippo"
+name: Valentina D'Efilippo
 favicon: null
 layout_spectrum: 0.1568149330560118
 typography_spectrum: 0.5016206202562898
@@ -23,6 +23,6 @@ color:
     - '#E376B7'
   brandStrength: 0.09905078867450356
   lightness: 0.9855034479405731
-  saturation: 0.86612434592098
+  saturation: 0.5625
   rhythmicContrast: 0.8742893559392542
 purpose: []
